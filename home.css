@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.navbar{
+    height: 70px;
+    background-color: black;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+   
+
+}
+.logo {
+    font-size: 25px;
+    color:white ;
+    font-style:oblique ;
+    
+    
+}
+
+
+.logo:hover{
+    font-size: 27px;
+    border-bottom: 2px solid black;
+    font-weight: 600;
+}
+a{
+    font-size: 20px;
+    color: whitesmoke;
+    font-weight: 400;
+    border: none;
+    transition: all 0.1s;
+}
+a:hover{
+    border-bottom: 2px  solid white;
+}
+button{
+    padding: 5px;
+    color: black;
+    background-color: white;
+    border: none;
+    transition: all 0.1s;
+    cursor: pointer;
+}
+button:hover{
+    background-color: aqua;
+    color: black;
+    border-radius: 20px;
+    border: none;
+    
+}
+button:active{
+    opacity: 0.5;
+    font-family: times new roman;
+}
+
+.search{
+    width: 500px;
+    float:left ;
+    height: 50%;
+    padding: 25px;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+body{
+    background-color:#A4DDED ;
+}
+h2{
+    font-size: 45px;
+    padding-top: 30px;
+    margin: 20px;
+    color: green;
+
+    
+   
+    
+}
+p{
+   font-size: 25px; 
+   font-family: Arial;
+   margin: 45px;
+   text-align: center;
+}
+h3{
+    font-size: 35px;
+    padding: 30px;
+    margin: 20px;
+    color: green;
+}
+h4{
+    font-size: 25px; 
+   font-family: Arial;
+   margin: 45px;
+   text-align: center;
+}
+h5{
+    color:black;
+    font-size: 45px;
+    text-align: center;
+}
+h6{
+    font-size: 30px;
+    font-family: arial;
+    margin: 20px;
+    text-align: center;
+    color:rgb(39, 85, 39) ;
+}
+
+
