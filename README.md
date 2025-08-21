@@ -3,16 +3,22 @@
 A modern, responsive Hotel Website built using HTML, CSS, and JavaScript.It allows visitors to view rooms, services, and contact the hotel easily.
 
 ## Features
-- Room details with images  
-- Booking/contact form    
-- Services and facilities section  
+- **Rooms & Suites** – Detailed descriptions with images, pricing, and amenities.  
+- **Restaurant & Dining** – Showcase of available cuisines and dining options.  
+- **Events & Services** – Information about conferences, weddings, and special packages.  
+- **Booking Form** – Simple form to reserve rooms online.  
+- **Location & Contact** – Google Maps integration and contact details.
 
 ## Technologies
 - HTML  
 - CSS  
 - JavaScript
 
-## Author
+## Screenshots
 
-Created by S.H.A.S.Nandasena
-GitHub :@ASamasha 
+### Home Page
+![Homepage Screenshot]()  
+
+## Author
+-Created by S.H.A.S.Nandasena
+
