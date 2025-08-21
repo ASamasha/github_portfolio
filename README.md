@@ -29,8 +29,9 @@ A modern, responsive Hotel Website built using HTML, CSS, and JavaScript.It allo
 
 [Contact us page Screenshots]
 <img width="1855" height="897" alt="Image" src="https://github.com/user-attachments/assets/a89ebf08-94d0-407e-99f9-cf355b9af8ba" />
-<img width="557" height="223" alt="Image" src="https://github.com/user-attachments/assets/07b74f70-d63e-426d-af90-b71e8ed88722" />
 
+[Sign page Screenshots]
+<img width="1820" height="862" alt="Image" src="https://github.com/user-attachments/assets/03992e75-6866-4034-a162-abe0a098fc9f" />
 
 
 
