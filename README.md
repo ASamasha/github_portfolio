@@ -1,4 +1,4 @@
-## Web site of AS Hotel
+# Web site of AS Hotel
 
 A modern, responsive Hotel Website built using HTML, CSS, and JavaScript.It allows visitors to view rooms, services, and contact the hotel easily.
 
