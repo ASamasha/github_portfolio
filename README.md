@@ -43,5 +43,5 @@ A modern, responsive Hotel Website built using HTML, CSS, and JavaScript.It allo
 
 
 ## Author
-- Created by S.H.A.S.Nandasena
+- Created by Amasha Sithmini
 
