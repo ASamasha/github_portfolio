@@ -12,7 +12,7 @@ A modern, responsive Hotel Website built using HTML, CSS, and JavaScript.It allo
 - CSS  
 - JavaScript
 
-  ## Author
+## Author
 
-  Created by S.H.A.S.Nandasena
-  GitHub :@AmashaSithmini
+Created by S.H.A.S.Nandasena
+GitHub :@ASamasha 
