@@ -17,7 +17,7 @@ A modern, responsive Hotel Website built using HTML, CSS, and JavaScript.It allo
 ## Screenshots
 
 ### Home Page
-![Homepage Screenshot](screenshots\hotel1.jpeg)  
+![Homepage Screenshot]<img width="1886" height="899" alt="Image" src="https://github.com/user-attachments/assets/018e5fd1-c84b-43fe-991a-dce62894840d" />
 
 ## Author
 -Created by S.H.A.S.Nandasena
